@@ -12,7 +12,7 @@ module.exports = {
     })
   ],
   devtool: 'sourcemap',
-  // mode: "development",
+  mode: "development",
   module: {
     rules: [
       {
